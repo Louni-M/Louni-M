@@ -2,7 +2,7 @@ Hi, I'm Louni Merk 👋
 
 Jurist & Data Protection | Bridging Law, Compliance and Technology
 
-I am a Paralegal / Jurist currently completing a Master's degree in Law, Crime, and Security of Information Technologies.
+I am a former in-house Legal Counsel currently completing a Master's degree in Law, Crime, and Security of Information Technologies.
 
 I leverage code and AI tools to better understand, audit, and secure the Information Systems I want to regulate. 
 
