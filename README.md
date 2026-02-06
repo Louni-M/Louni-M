@@ -1,4 +1,4 @@
-Hi, I'm Louni Merk 👋
+Hi, I'm Louni 👋
 
 Jurist & Data Protection | Bridging Law, Compliance and Technology
 
