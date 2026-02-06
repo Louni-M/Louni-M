@@ -8,5 +8,5 @@ I leverage code and AI tools to better understand, audit, and secure the Informa
 
 
 
-Based in Switzerland 🇨🇭 | Open to opportunities in Data Protection, Compliance & InfoSec.
+Based in Switzerland 🇨🇭 | Currently in Korea University, Seoul | Open to opportunities in Data Protection, Compliance & InfoSec.
 
